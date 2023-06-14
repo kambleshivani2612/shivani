@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K.Shivani - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .cv-section {
+            margin-bottom: 30px;
+        }
+ .cv-section h2 {
+            margin-bottom: 10px;
+        }
+        
+        .cv-section ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .cv-section ul li {
+            margin-bottom: 5px;
+        }
+</style>
+</head>
+<body>
+    <h1>K.Shivani</h1>
+    
+    <div class="cv-section">
+        <h2>CAREER OBJECTIVE</h2>
+        <ul>
+            <li>Strong in design and integration with intuitive problem-solving skills. Proficient in C. Constant learner and ability to adapt to new technologies. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.</li>
+   
+        </ul>
+    </div>
+    <div class="cv-section">
+        <h2>ACADEMICS</h2>
+         <ul>
+           <li>● Pursuing B Tech in CSE in Stanley College of Engineering & Technology for Women.
+           <li>● 2018-2020 Akshadeep Junior College with 89%
+           <li>● 2017-2018 SSC Saraswati Vidyaniketan High School with 8.2 CG
+             </ul>
+    </div>
+        <ul>
+    <div class="cv-section">
+        <h2>TECHNICAL SKILLS</h2>
+        <ul>
+            <li>C Programming</li>
+            <li>Java</li>
+            <li>Python</li>
+        </ul>
+    </div>
+    
+    <div class="cv-section">
+        <h2>CERTIFICATIONS</h2>
+        <ul>
+            <li>● Certificate of participation in Basics of python programming.</li>
+            <li>● Certificate of theoretical and practical understanding of Introduction.</li>	
+        </ul>
+    </div>
+    
+    <div class="cv-section">
+        <h2>PERSONAL DETAILS</h2>
+        <ul>
+            <li>● Date of Birth :26-12-2002</li>
+<li>● Father’s Name :K.Narsing</li>
+<li>● Mother’s Name :K.Padma</li>
+<li>● Current Address :13-3-1048/79,Indira Nagar,Hyderabad ,Telangana</li>
+<li>● Permanent Address : 13-3-1048/79,Indira Nagar,Hyderabad ,Telangana</li>
+<li>● Hobbies : Listening to Music, Playing games</li>
+<li>● Nationality :Hindu</li>
+<li>● Languages Known : English ,Telugu</li>
+<li>● Any kind of disability :No</li>
+<li>● Willingness to Relocate :Yes</li>     
+        </ul>
+    </div>
+<div class="cv-section">
+        <h2>DECLARATION</h2>
+<li>I here by declare that all the above-mentioned information is true and correct to the best of my knowledge.</li>
+<li> Place : Hyderabad	</li>
+<li>Signature/E-signature :G.Sindhu</li>	
+        </ul> 
+       </div> 
+</body>
+</html>
